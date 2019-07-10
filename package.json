@@ -22,7 +22,7 @@
     "webpack-cli": "^2.1.2"
   },
   "dependencies": {
-    "browser-sync": "^2.24.4",
+    "browser-sync": "^2.24.7",
     "jquery": "^3.3.1"
   }
 }
